@@ -1,0 +1,1 @@
+tail -n +2 /home/pi/printer_data/config/RatOS-Extended/templates/qidi-x-smart-printer.template.cfg > /home/pi/printer_data/config/printer.cfg
